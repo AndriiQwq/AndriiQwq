@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Andrii
-
----
-
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriiQwq&show_icons=true&theme=tokyonight
 )  
