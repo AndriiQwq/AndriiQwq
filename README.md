@@ -26,7 +26,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrii952q)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dokanev.elma5@gmail.com)
 
---
+---
 
 #### Chess Links:
 [![Lichess](https://img.shields.io/badge/Lichess-FFFFFF?style=for-the-badge&logo=lichess&logoColor=green)](https://lichess.org/@/Dokanev_Andrey)  
