@@ -1,3 +1,5 @@
+FIIT STU Student 🎓
+
 Bachelor's (2nd year, in progress)
 
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
