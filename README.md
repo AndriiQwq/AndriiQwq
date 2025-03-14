@@ -1,3 +1,8 @@
+🚀 19 y.o. | FIIT STU Student 🎓
+---
+#### **🎨 Hobbies**
+In my free time, I love playing chess 🏆, learning new technologies 💻, and just having fun doing my favorite things 📚.
+
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
 
 ## Visitors 🦫 
