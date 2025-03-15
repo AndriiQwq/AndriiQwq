@@ -13,7 +13,7 @@ Bachelor's (2nd year, in progress)
 --- 
 #### **🛠️ Skills**
 
-- **Languages:** C, C++, Java, Python, JavaScript/TypeScript _(learning)_, SQL, Rust _(learning)_
+- **Languages:** C, C++, Java, Python, R_(learning)_, JavaScript/TypeScript _(learning)_, SQL, Rust _(learning)_
 - **Technologies:** Node.js _(learning)_, React Native _(learning)_, Spring Boot, Django, FastAPI, PostgreSQL
 - **Tools:** Git, Docker
 - **Security & Networking:** TCP/IP, Routing, SSH, JWT, TLS
