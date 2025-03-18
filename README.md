@@ -12,7 +12,7 @@ Bachelor's (2nd year, in progress)
 - [FIDE Chess Rating](https://ratings.fide.com/profile/34130632)
 
 - ### Skills 🔧
-- **Languages**: Rust 🦀, Python 🐍, C++ 💻, JavaScript/TypeScript _(learning)_, SQL, Java _(learning)_, R _(learning)_
-- **Technologies**: Node.js _(learning)_, React Native _(learning)_, PostgreSQL 🛢️, Spring Boot, Django, FastAPI
+- **Languages**: Rust 🦀, Python 🐍, C++ 💻, JavaScript/TypeScript _(learning)_, SQL, Java, R _(learning)_
+- **Technologies**: Node.js _(learning)_, React Native _(learning)_, PostgreSQL 🛢️, Spring Boot _(learning)_, Django _(learning)_, FastAPI
 - **Tools**: Git, Docker 🐳, Virtual Machines (VMware-workstation) 🖥, Wireshark, Microsoft Office
 - **Security & Networking**: TCP/IP 🌐, Routing, SSH 🔐, JWT, TLS
