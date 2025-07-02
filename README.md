@@ -13,18 +13,22 @@ Bachelor's (2nd year, in progress)
 
 ### Skills 🔧
 
-- **💻 Main Programming Languages**  
-  Python 🐍, JavaScript / TypeScript, SQL, Java, C / C++ 💻  
-  _Also studied during university_: Rust 🦀, R, NASM (Assembly) 📝
+- **Main Programming Languages**  
+  Python, JavaScript / TypeScript, SQL, Java, C / C++   
+  _Also studied during university_: Rust, R, NASM (Assembly)
 
-- **🚀 Frameworks & Technologies**  
+- **Frameworks & Technologies**  
   **Backend**: Express.js, Django / FastAPI, Spring Boot (coursework)  
   **Frontend / Mobile**: React Native  
-  **Databases**: PostgreSQL 🛢️
+  **Databases**: PostgreSQL 
 
-- **🛠 Tools**  
-  Git, Docker 🐳, Virtual Machines (VMware Workstation) 🖥️, Wireshark, Microsoft Office
+- **Tools**  
+  Git, Docker, Virtual Machines (VMware Workstation) , Wireshark, Microsoft Office
 
-- **🔐 Security & Networking**  
-  TCP/IP 🌐, Routing, SSH 🔐, JWT, TLS
+- **Security & Networking**  
+  TCP/IP, Routing, SSH, JWT, TLS
 
+### 📇 Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/andrii-dokaniev-151238311/)
+- [Email](mailto:andriidokaniev@gmail.com)
