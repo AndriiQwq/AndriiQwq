@@ -28,7 +28,7 @@ Bachelor's (2nd year, in progress)
 - **Security & Networking**  
   TCP/IP, Routing, SSH, JWT, TLS
 
-### 📇 Contacts
+### Contacts 📇
 
 - [LinkedIn](https://www.linkedin.com/in/andrii-dokaniev-151238311/)
 - [Email](mailto:andriidokaniev@gmail.com)
