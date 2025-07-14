@@ -18,15 +18,16 @@ Bachelor's (2nd year, in progress)
   _Also studied during university_: Rust, R, NASM (Assembly)
 
 - **Frameworks & Technologies**  
-  **Backend**: Express.js, Django / FastAPI, Spring Boot (coursework)  
-  **Frontend / Mobile**: React Native  
+  **Backend**: Node.js & Express.js, Django / FastAPI, Spring Boot (coursework)  
+  **Frontend / Mobile**: React, React Native(mobile)  
   **Databases**: PostgreSQL 
+  **Other**: REST APIs, GraphQL (basic)
 
 - **Tools**  
   Git, Docker, Virtual Machines (VMware Workstation) , Wireshark, Microsoft Office
 
 - **Security & Networking**  
-  TCP/IP, Routing, SSH, JWT, TLS
+  TCP/IP, Routing, SSH, JWT
 
 ### Contacts 📇
 
