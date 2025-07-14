@@ -20,7 +20,7 @@ Bachelor's (2nd year, in progress)
 - **Frameworks & Technologies**  
   **Backend**: Node.js & Express.js, Django / FastAPI, Spring Boot (coursework)  
   **Frontend / Mobile**: React, React Native(mobile)  
-  **Databases**: PostgreSQL 
+  **Databases**: PostgreSQL  
   **Other**: REST APIs, GraphQL (basic)
 
 - **Tools**  
