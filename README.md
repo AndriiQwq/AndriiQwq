@@ -1,6 +1,6 @@
 FIIT STU Student 🎓
 
-Bachelor's (2nd year, in progress)
+Bachelor's (2023–2026)
 
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
 - <small>**[Cisco Certified Network Associate (CCNA1)](https://www.credly.com/badges/2141ba35-40e3-42dd-8ee2-159afe3ac39c)**</small>
@@ -18,8 +18,8 @@ Bachelor's (2nd year, in progress)
   _Also studied during university_: Rust, R, NASM (Assembly)
 
 - **Frameworks & Technologies**  
-  **Backend**: Node.js & Express.js, Django / FastAPI, Spring Boot (coursework)  
-  **Frontend / Mobile**: React, React Native(mobile)  
+  **Backend**: Node.js & Express.js, FastAPI, Spring Boot (coursework)  
+  **Frontend / Mobile**: React, React Native(Mobile – coursework)  
   **Databases**: PostgreSQL  
   **Other**: REST APIs, GraphQL (basic)
 
