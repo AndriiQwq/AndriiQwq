@@ -1,6 +1,7 @@
 FIIT STU Student 🎓
 
 Bachelor's (2023–2026)
+I am currently starting to gather materials and work on my bachelor's thesis titled "Contextual Analysis of Legal Contracts Using Language Models." The thesis is focused on working with language models.
 
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
 - <small>**[Cisco Certified Network Associate (CCNA1)](https://www.credly.com/badges/2141ba35-40e3-42dd-8ee2-159afe3ac39c)**</small>
@@ -14,8 +15,8 @@ Bachelor's (2023–2026)
 ### Skills 🔧
 
 - **Main Programming Languages**  
-  Python, JavaScript / TypeScript, SQL, Java, C / C++   
-  _Also studied during university_: Rust, R, NASM (Assembly)
+  Python, JavaScript / TypeScript, SQL, C / C++   
+  _Also studied during university_: Java, React Native, Rust, R, NASM (Assembly)
 
 - **Frameworks & Technologies**  
   **Backend**: Node.js & Express.js, FastAPI, Spring Boot (coursework)  
