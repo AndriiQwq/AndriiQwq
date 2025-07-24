@@ -1,7 +1,7 @@
 FIIT STU Student 🎓
 
-Bachelor's (2023–2026)
-I am currently starting to gather materials and work on my bachelor's thesis titled "Contextual Analysis of Legal Contracts Using Language Models." The thesis is focused on working with language models.
+Bachelor's (2023–2026)  
+I am currently starting to gather materials and work on my bachelor's thesis, which focuses on language models and contextual analysis.
 
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
 - <small>**[Cisco Certified Network Associate (CCNA1)](https://www.credly.com/badges/2141ba35-40e3-42dd-8ee2-159afe3ac39c)**</small>
@@ -25,7 +25,7 @@ I am currently starting to gather materials and work on my bachelor's thesis tit
   **Other**: REST APIs, GraphQL (basic)
 
 - **Tools**  
-  Git, Docker, Virtual Machines (VMware Workstation) , Wireshark, Microsoft Office
+  Linux, Git, Docker, Virtual Machines (VMware Workstation) , Wireshark, Microsoft Office
 
 - **Security & Networking**  
   TCP/IP, Routing, SSH, JWT
