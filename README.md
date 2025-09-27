@@ -6,6 +6,10 @@ I am currently starting to gather materials and work on my bachelor's thesis, wh
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
 - <small>**[Cisco Certified Network Associate (CCNA1)](https://www.credly.com/badges/2141ba35-40e3-42dd-8ee2-159afe3ac39c)**</small>
 
+## Quick Links
+
+- **GitHub Projects Overview:** [projects-portfolio](https://github.com/AndriiQwq/projects-portfolio) - A portfolio showcasing my university and personal projects in networking, systems, web, databases, and AI.
+
 ## Visitors 🦫 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
 
