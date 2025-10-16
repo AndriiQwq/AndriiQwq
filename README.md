@@ -8,7 +8,7 @@ I am currently starting to gather materials and work on my bachelor's thesis, wh
 
 ## Quick Links
 
-- **GitHub Projects Overview:** [projects-portfolio](https://github.com/AndriiQwq/projects-portfolio) - A portfolio showcasing my university and personal projects in networking, systems, web, databases, and AI.
+- **GitHub Projects Overview:** [my-projects](https://github.com/AndriiQwq/projects-portfolio) - A portfolio showcasing my university and personal projects in networking, systems, web, databases, and AI.
 
 ## Visitors 🦫 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
