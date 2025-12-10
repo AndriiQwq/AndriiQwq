@@ -11,6 +11,7 @@ The work includes preprocessing contracts and applying different models to extra
 ## Quick Links
 
 - **GitHub Projects Overview:** [my-university-projects](https://github.com/AndriiQwq/projects-portfolio) - my university projects in networking, systems, web, databases, and AI.
+  - Python, JavaScript / TypeScript, SQL, C / C++, Java, React Native, Rust, R, NASM (Assembly)
 
 ## Visitors 🦫 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
@@ -18,23 +19,11 @@ The work includes preprocessing contracts and applying different models to extra
 #### Chess Links 🦦
 - [FIDE Chess Rating](https://ratings.fide.com/profile/34130632)
 
-### Skills 🔧
-
-- **Main Programming Languages**  
-  Python, JavaScript / TypeScript, SQL, C / C++   
-  _Also studied during university_: Java, React Native, Rust, R, NASM (Assembly)
-
-- **Frameworks & Technologies**  
-  **Backend**: Node.js & Express.js, FastAPI, Spring Boot (coursework)  
-  **Frontend / Mobile**: React, React Native(Mobile – coursework)  
-  **Databases**: PostgreSQL  
-  **Other**: REST APIs, GraphQL (basic)
-
 - **Tools**  
-  Linux, Git, Docker, Virtual Machines (VMware Workstation) , Wireshark, Microsoft Office
-
+  Linux, Git, Docker, Kubernetes, CI/CD, Virtual Machines (VMware Workstation), Wireshark
+  
 - **Security & Networking**  
-  TCP/IP, Routing, SSH, JWT
+  SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy
 
 ### Contacts 📇
 
