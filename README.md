@@ -20,10 +20,12 @@ The work includes preprocessing contracts and applying different models to extra
 - [FIDE Chess Rating](https://ratings.fide.com/profile/34130632)
 
 - **Tools**  
-  Linux, Git, Docker, Kubernetes, CI/CD, Virtual Machines (VMware Workstation), Wireshark
+  Linux, Git, Docker, Kubernetes, CI/CD,  
+  Virtual Machines (VMware Workstation), Wireshark,  hardware KVM switch
   
 - **Security & Networking**  
-  SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy
+  SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy  
+  Router setup, Proxmox virtualization
 
 ### Contacts 📇
 
