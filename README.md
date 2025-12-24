@@ -28,13 +28,20 @@ I am developing an automated contract analysis system for Slovak legal documents
   DMZ host configuration, router administration, Wireshark traffic analysis, Proxmox virtualization
 
 ## Proxmox
-
+Full virtualization setup with shared storage, live migration, and centralized management.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/adc3e775-8c3c-4d18-9b02-5e7316cd9d0c" width="70%" />
+</p>
+
+
+## Prometheus
+Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters, dashboards, and alerting.
+<p align="center">
+<img alt="image" src="https://github.com/user-attachments/assets/572c7e87-10e5-4698-bcc9-5487b30e0698" width="70%" />
 </p>
 
 ## Homelab Setup
