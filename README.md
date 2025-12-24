@@ -37,6 +37,32 @@ I am developing an automated contract analysis system for Slovak legal documents
   <img src="https://github.com/user-attachments/assets/adc3e775-8c3c-4d18-9b02-5e7316cd9d0c" width="70%" />
 </p>
 
+## Homelab Setup
+
+<table>
+<tr>
+<td width="30%">
+  <img src="https://github.com/user-attachments/assets/0764ad46-3e42-40a2-8f1c-fc7f7777e6a6" width="100%" />
+</td>
+<td>
+
+<strong>Hardware Configuration</strong><br><br>
+<strong>2x Servers:</strong>  
+• <strong>CPU:</strong> 2× Intel Xeon E5‑2698 v4<br>
+• <strong>Coolers:</strong> 2× Noctua NH‑U14S + NF‑A14 FLX<br>
+• <strong>Motherboard:</strong> ASUS Z10PE‑D16 WS<br>
+• <strong>RAM:</strong> 8× 16GB Crucial DDR4 2133 ECC Registered (128GB total)<br>
+• <strong>Storage:</strong> Samsung 850 EVO 250GB SSD<br>
+• <strong>Network:</strong> ASUS XG‑C100C 10G PCI‑E<br>
+• <strong>GPU:</strong> AMD Radeon R7 260X / R7 360 (2GB) or SAPPHIRE HD 6450 (1GB)<br>
+• <strong>PSU:</strong> Seasonic P‑Series 760W (SS‑760XP2)<br>
+• <strong>Case:</strong> Fractal Design Define XL R2 Black Pearl<br>
+
+</td>
+</tr>
+</table>
+
+
 Cluster architecture provides higher reliability, flexibility, and scalability for virtualized environments.
 Core benefits include:
 
