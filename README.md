@@ -27,7 +27,15 @@ The work includes preprocessing contracts and applying different models to extra
   SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy  
   Router setup, Proxmox virtualization
 
-  <img width="1354" height="767" alt="image" src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" />
+## Proxmox
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adc3e775-8c3c-4d18-9b02-5e7316cd9d0c" width="70%" />
+</p>
 
 
 ### Contacts 📇
