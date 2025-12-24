@@ -27,6 +27,9 @@ The work includes preprocessing contracts and applying different models to extra
   SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy  
   Router setup, Proxmox virtualization
 
+  <img width="1354" height="767" alt="image" src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" />
+
+
 ### Contacts 📇
 
 - [LinkedIn](https://www.linkedin.com/in/andrii-dokaniev-151238311/)
