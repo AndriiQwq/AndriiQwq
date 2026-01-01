@@ -10,25 +10,45 @@ I am developing an automated contract analysis system for Slovak legal documents
 
 ## Quick Links
 
-- **GitHub Projects Overview:** [my-university-projects](https://github.com/AndriiQwq/projects-portfolio) - my university projects in networking, systems, web, databases, and AI.
-  - Python, JavaScript / TypeScript, SQL, C / C++, Java, React Native, Rust, R, NASM (Assembly)
+- **GitHub Projects Overview:** [my-projects](https://github.com/AndriiQwq/projects-portfolio) – projects in networking, systems, web, databases, and AI.
+  - Python, JavaScript / TypeScript, SQL, Java, React
+  - Additionally learning React Native, C/C++, Rust, R, NASM (Assembly) as part of my studies at FIIT STU
+ 
+#### Chess Links 🦦 
+<details>
+  <summary>Chess Links</summary>
 
-## Visitors 🦫 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
-
-#### Chess Links 🦦
 - [FIDE Chess Rating](https://ratings.fide.com/profile/34130632)
 
-## Tools
-  Linux, Git, Docker, Kubernetes, CI/CD,  
-  Virtual Machines (VMware Workstation), Wireshark, hardware KVM switch
-  
-## Security & Networking
-  SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy, Port forwarding (NAT),
-  DMZ host configuration, router administration, Wireshark traffic analysis, Proxmox virtualization
+</details>
+
+## Tools & Skills
+
+<details>
+  <summary>Show Tools</summary>
+
+Linux, Git, Docker, Kubernetes, CI/CD,  
+Virtual Machines (VMware Workstation), Wireshark, hardware KVM switch
+
+</details>
+
+<details>
+  <summary>Show Security & Networking</summary>
+
+SSH, TCP/IP, DNS, Routing, Firewalls, VPN, Proxy, Port forwarding (NAT),  
+DMZ host configuration, router administration, Wireshark traffic analysis, Proxmox virtualization
+
+</details>
+
+
+---
 
 ## Proxmox
 Full virtualization setup with shared storage, live migration, and centralized management.
+
+<details>
+  <summary>Show Proxmox Screenshots</summary>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" />
 </p>
@@ -37,15 +57,25 @@ Full virtualization setup with shared storage, live migration, and centralized m
   <img src="https://github.com/user-attachments/assets/adc3e775-8c3c-4d18-9b02-5e7316cd9d0c" width="70%" />
 </p>
 
+</details>
+
 
 ## Prometheus
 Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters, dashboards, and alerting.
+
+<details>
+  <summary> Show Monitoring Dashboard</summary>
+
 <p align="center">
-<img alt="image" src="https://github.com/user-attachments/assets/572c7e87-10e5-4698-bcc9-5487b30e0698" width="70%" />
+  <img src="https://github.com/user-attachments/assets/572c7e87-10e5-4698-bcc9-5487b30e0698" width="70%" />
 </p>
+
+</details>
 
 ## Homelab Setup
 
+<details>
+ 
 <table>
 <tr>
 <td width="30%">
@@ -69,7 +99,10 @@ Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters
 </tr>
 </table>
 
+</details>
 
+<details>
+ 
 Cluster architecture provides higher reliability, flexibility, and scalability for virtualized environments.
 Core benefits include:
 
@@ -88,6 +121,11 @@ In addition to virtualization clusters, I also work with Kubernetes, which provi
 - Rolling updates & rollbacks
 - Service discovery & networking
 - Declarative infrastructure (IaC)
+
+</details>
+
+## Visitors 🦫 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
 
 ### Contacts 📇
 
