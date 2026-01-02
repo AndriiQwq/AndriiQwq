@@ -1,7 +1,7 @@
 FIIT STU Student 🎓
 
 Bachelor's (2023–2026)  
-I am developing an automated contract analysis system for Slovak legal documents using Large Language Models. The system extracts contract structure, classifies clauses by legal meaning, and supports multiple LLM providers (Gemini, Claude, Mistral, GPT, Qwen) through a FastAPI with configurable prompting strategies.
+Developing an automated system for Slovak contract analysis with Large Language Models. Extracts structure, classifies clauses, performs contextual analysis, and supports multiple LLMs (Gemini, Claude, Mistral, GPT, Qwen) with configurable prompting.
 
 ---
  
