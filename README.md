@@ -10,7 +10,7 @@ I am developing an automated contract analysis system for Slovak legal documents
 
 ## Quick Links
 
-- **GitHub Projects Overview:** [my-projects](https://github.com/AndriiQwq/projects-portfolio) – projects in networking, systems, web, databases, and AI.
+- **GitHub Projects Overview:** [my-projects](https://github.com/AndriiQwq/projects-portfolio) – publicly available projects in networking, systems, web, databases, and AI.
   - Python, JavaScript / TypeScript, SQL, Java, React
   - Additionally learning React Native, C/C++, Rust, R, NASM (Assembly) as part of my studies at FIIT STU
  
