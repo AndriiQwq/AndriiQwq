@@ -28,7 +28,12 @@ Developing an automated system for Slovak contract analysis with Large Language 
   <summary>Show Tools</summary>
 
 Linux, Git, Docker, Kubernetes, CI/CD,  
-Virtual Machines (VMware Workstation), Wireshark, hardware KVM switch
+Virtual Machines (VMware Workstation), Wireshark, hardware KVM switch,  
+Proxmox  
+- Orchestration
+- Monitoring & Analysis 
+- User role managment
+- Network Security(Firewall configuration) 
 
 </details>
 
