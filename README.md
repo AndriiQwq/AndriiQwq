@@ -82,10 +82,10 @@ Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters
 <details>
  
 <table>
-<tr>
-<td width="30%">
+<!-- <tr> -->
+<!-- <td width="30%">
   <img src="https://github.com/user-attachments/assets/0764ad46-3e42-40a2-8f1c-fc7f7777e6a6" width="100%" />
-</td>
+</td> -->
 <td>
 
 <strong>Hardware Configuration</strong><br><br>
