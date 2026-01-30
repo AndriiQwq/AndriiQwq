@@ -55,7 +55,8 @@ Full virtualization setup with shared storage, live migration, and centralized m
   <summary>Show Proxmox Screenshots</summary>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" />
+  <img alt="image" src="https://github.com/user-attachments/assets/3c1196d9-4c9a-4296-9a25-6ba5fe33290d"  width="70%"/>
+  <!-- <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" /> -->
 </p>
 
 <p align="center">
