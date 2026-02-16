@@ -107,29 +107,6 @@ Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters
 
 </details>
 
-<details>
- 
-Cluster architecture provides higher reliability, flexibility, and scalability for virtualized environments.
-Core benefits include:
-
-- Shared storage — unified storage accessible by all nodes, simplifying VM management and data access.
-- VM migration — support for both Offline and Live migration, allowing running virtual machines to move between nodes without downtime.
-- High Availability (HA) — with three or more nodes, the cluster can automatically restart virtual machines on another node if one server fails.
-- Centralized configuration — all nodes operate as a single system with synchronized configuration across the cluster.
-- Load balancing — efficient distribution of workloads to optimize resource usage and performance.
-- Convenient backups and recovery — backups can be created on one node and restored on another with minimal effort.
-
-Kubernetes Perspective
-In addition to virtualization clusters, I also work with Kubernetes, which provides:
-
-- Container orchestration and automated scaling
-- Self‑healing workloads (restart, reschedule, replace pods)
-- Rolling updates & rollbacks
-- Service discovery & networking
-- Declarative infrastructure (IaC)
-
-</details>
-
 ## Visitors 🦫 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndriiQwq.README.md)
 
