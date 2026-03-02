@@ -11,7 +11,7 @@ Developing an automated system for Slovak contract analysis with Large Language 
 ## Quick Links
 
 - **GitHub Projects Overview:** [my-projects](https://github.com/AndriiQwq/projects-portfolio) – publicly available projects in networking, systems, web, databases, and AI.
-  - Python, JavaScript / TypeScript, SQL, Java, React
+  - Python, JavaScript / TypeScript([MTAAproject backend](https://github.com/Pupatko/MTAA_PROJEKT_BACKEND)), SQL, Java, React
   - Additionally learning React Native, C/C++, Rust, R, NASM (Assembly) as part of my studies at FIIT STU
  
 #### Chess Links 🦦 
