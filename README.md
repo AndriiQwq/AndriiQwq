@@ -28,12 +28,13 @@ Developing an automated system for Slovak contract analysis with Large Language 
   <summary>Show Tools</summary>
 
 Linux, Git, Docker, Kubernetes, CI/CD,  
-Virtual Machines (VMware Workstation), Wireshark, hardware KVM switch,  
-Proxmox  
-- Orchestration
-- Monitoring & Analysis 
-- User role managment
-- Network Security(Firewall configuration) 
+Virtual Machines (VMware Workstation), Wireshark  
+Proxmox    
+- Managing virtualized environments using Proxmox (orchestration, clustering
+- Implementing monitoring and observability stacks with Prometheus & Grafana
+- Handling user role management, access control, and permission policies
+- Configuring network security, including firewall rules, traffic filtering
+- Designing and managing multi‑network setups for virtual machines (VLANs, routing, traffic separation)
 
 </details>
 
@@ -48,6 +49,8 @@ DMZ host configuration, router administration, Wireshark traffic analysis, Proxm
 
 ---
 
+<!--
+
 ## Proxmox
 Full virtualization setup with shared storage, live migration, and centralized management.
 
@@ -56,7 +59,6 @@ Full virtualization setup with shared storage, live migration, and centralized m
 
 <p align="center">
   <img alt="image" src="https://github.com/user-attachments/assets/3c1196d9-4c9a-4296-9a25-6ba5fe33290d"  width="70%"/>
-  <!-- <img src="https://github.com/user-attachments/assets/0bba657b-da4a-4a0a-94ec-94cc3ef9f01c" width="70%" /> -->
 </p>
 
 <p align="center">
@@ -64,7 +66,6 @@ Full virtualization setup with shared storage, live migration, and centralized m
 </p>
 
 </details>
-
 
 ## Prometheus
 Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters, dashboards, and alerting.
@@ -77,6 +78,8 @@ Prometheus + Grafana Monitoring — multi‑node monitoring stack with exporters
 </p>
 
 </details>
+
+/> -->
 
 ## Homelab Setup
 
