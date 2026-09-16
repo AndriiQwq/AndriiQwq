@@ -3,6 +3,9 @@ FIIT STU Student 🎓
 Bachelor's (2023–2026)  
 Developing an automated system for Slovak contract analysis with Large Language Models. Extracts structure, classifies clauses, performs contextual analysis, and supports multiple LLMs (Gemini, Claude, Mistral, GPT, Qwen) with configurable prompting.
 
+Master's (2026-present)  
+...
+
 ---
  
 **[Credly Certifications 🦖](https://www.credly.com/users/andrii-dokaniev)**
